@@ -19,7 +19,6 @@ class Java {
 }
 
 // #3 Clever solution
-// #1 Simple solution
 class Java {
     public static int doubleInteger(int i) {
         return i << 1;
