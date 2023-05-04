@@ -4,21 +4,21 @@
  * Code as fast as you can! You need to double the integer and return it.
  */
 
-// #1 Simple solution
+// 1 Simple solution
 class Java {
     public static int doubleInteger(int i) {
         return 2 * i;
     }
 }
 
-// #1 Optimized solution
+// 2 Optimized solution
 class Java {
     public static int doubleInteger(int i) {
         return i + i;
     }
 }
 
-// #3 Clever solution
+// 3 Clever solution
 class Java {
     public static int doubleInteger(int i) {
         return i << 1;
