@@ -13,4 +13,5 @@ _Please be noticed, that violating Codewars ToS might lead to the termitation of
 
 ### 8 kyu
 
-* [(8 kyu) You Can't Code Under Pressure #1](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.java>)
+- [altERnaTIng cAsE = ALTerNAtiNG CaSe](<8%20kyu/altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.java>)
+- [You Can't Code Under Pressure #1](<8%20kyu/You%20Cant%20Code%20Under%20Pressure%201.java>)
