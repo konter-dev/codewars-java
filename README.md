@@ -9,7 +9,7 @@
 
 _Please be noticed, that violating Codewars ToS might lead to the termitation of your Codewars' account._
 
-## My solutions for Codewars' Kata https://www.codewars.com
+## My solutions for Codewars' Kata https://www.codewars.com solved in Java language
 
 ### 8 kyu
 
