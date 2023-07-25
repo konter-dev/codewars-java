@@ -13,8 +13,9 @@ _Please be noticed, that violating Codewars ToS might lead to the termitation of
 
 ### 8 kyu
 
-- [Twice as old](<8%20kyu/Twice%20as%20old.java>)
 - [altERnaTIng cAsE = ALTerNAtiNG CaSe](<8%20kyu/altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.java>)
+- [Total amount of points](<8%20kyu/Total%20amount%20of%20points.java>)
+- [Twice as old](<8%20kyu/Twice%20as%20old.java>)
 - [Volume of a Cuboid](<8%20kyu/Volume%20of%20a%20Cuboid.java>)
 - [Well of Ideas - Easy Version](<8%20kyu/Well%20of%20Ideas%20-%20Easy%20Version.java>)
 - [What is between](<8%20kyu/What%20is%20between.java>)
