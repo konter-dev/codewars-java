@@ -14,6 +14,7 @@ _Please be noticed, that violating Codewars ToS might lead to the termitation of
 ### 8 kyu
 
 - [altERnaTIng cAsE = ALTerNAtiNG CaSe](<8%20kyu/altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.java>)
+- [The Feast of Many Beasts](<8%20kyu/The%20Feast%20of%20Many%20Beasts.java>)
 - [To square(root) or not to square(root)](<8%20kyu/To%20square(root)%20or%20not%20to%20square(root).java>)
 - [Total amount of points](<8%20kyu/Total%20amount%20of%20points.java>)
 - [Twice as old](<8%20kyu/Twice%20as%20old.java>)
