@@ -9,10 +9,11 @@
 
 _Please be noticed, that violating Codewars ToS might lead to the termitation of your Codewars' account._
 
-## My solutions for Codewars' Kata https://www.codewars.com solved in Java language
+## My solutions for Codewars' Kata <https://www.codewars.com> solved in Java language
 
 ### 8 kyu
 
+- [Sum of positive](<8%20kyu/Sum%20of%20positive.java>)
 - [altERnaTIng cAsE = ALTerNAtiNG CaSe](<8%20kyu/altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.java>)
 - [The Feast of Many Beasts](<8%20kyu/The%20Feast%20of%20Many%20Beasts.java>)
 - [To square(root) or not to square(root)](<8%20kyu/To%20square(root)%20or%20not%20to%20square(root).java>)
