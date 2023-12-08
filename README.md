@@ -13,6 +13,7 @@ _Please be noticed, that violating Codewars ToS might lead to the termitation of
 
 ### 8 kyu
 
+- [String Repeat](<8%20kyu/String%20Repeat.java>)
 - [Sum of positive](<8%20kyu/Sum%20of%20positive.java>)
 - [altERnaTIng cAsE = ALTerNAtiNG CaSe](<8%20kyu/altERnaTIng%20cAsE%20%3D%20ALTerNAtiNG%20CaSe.java>)
 - [The Feast of Many Beasts](<8%20kyu/The%20Feast%20of%20Many%20Beasts.java>)
