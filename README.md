@@ -13,6 +13,7 @@ _Please be noticed, that violating Codewars ToS might lead to the termitation of
 
 ### 8 kyu
 
+- [Sort and Star](<8%20kyu/Sort%20and%20Star.java>)
 - [Square(n) Sum](<8%20kyu/Square(n)%20Sum.java>)
 - [String Repeat](<8%20kyu/String%20Repeat.java>)
 - [Sum of positive](<8%20kyu/Sum%20of%20positive.java>)
