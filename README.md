@@ -7,12 +7,13 @@
 - I will not be accepting contributions of any form to this repo
 - Creating a repository like this is discouraged by Codewars
 
-_Please be noticed, that violating Codewars ToS might lead to the termitation of your Codewars' account._
+_Please be noticed, that violating Codewars ToS might lead to the termination of your Codewars' account._
 
 ## My solutions for Codewars' Kata <https://www.codewars.com> solved in Java language
 
 ### 8 kyu
 
+- [Rock Paper Scissors](<8%20kyu/Rock%20Paper%20Scissors.java>)
 - [Sort and Star](<8%20kyu/Sort%20and%20Star.java>)
 - [Square(n) Sum](<8%20kyu/Square(n)%20Sum.java>)
 - [String Repeat](<8%20kyu/String%20Repeat.java>)
