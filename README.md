@@ -13,6 +13,7 @@ _Please be noticed, that violating Codewars ToS might lead to the termination of
 
 ### 8 kyu
 
+- [Reversed Words](<8%20kyu/Reversed%20Words.java>)
 - [Rock Paper Scissors](<8%20kyu/Rock%20Paper%20Scissors.java>)
 - [Sort and Star](<8%20kyu/Sort%20and%20Star.java>)
 - [Square(n) Sum](<8%20kyu/Square(n)%20Sum.java>)
